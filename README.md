@@ -27,6 +27,7 @@ Arch
 
 
 Procedure for Data Analysis:
+
 1) Time Series 
 
 2) Backtesting
